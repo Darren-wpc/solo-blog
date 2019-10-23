@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [CSP 201903-2 二十四点](http://www.wpc1923.cn/articles/2019/10/23/1571789514068.html)
 * [世界，你好！](http://www.wpc1923.cn/hello-solo)
 
 
