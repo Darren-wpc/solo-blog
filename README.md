@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [午后周五](http://www.wpc1923.cn/articles/2019/10/29/1572362711049.html)
+* [Poetry Anthology](http://www.wpc1923.cn/articles/2019/10/29/1572325412052.html)
+* [诗中爱](http://www.wpc1923.cn/articles/2019/10/29/1572306215878.html)
 * [一场近距离的足球赛](http://www.wpc1923.cn/articles/2019/10/24/1571846510557.html)
 * [CSP 201903-2 二十四点](http://www.wpc1923.cn/articles/2019/10/23/1571789514068.html)
 * [世界，你好！](http://www.wpc1923.cn/hello-solo)
