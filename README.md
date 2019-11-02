@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.wpc1923.cn/my-github-repos)
 * [午后周五](http://www.wpc1923.cn/articles/2019/10/29/1572362711049.html)
 * [Poetry Anthology](http://www.wpc1923.cn/articles/2019/10/29/1572325412052.html)
 * [诗中爱](http://www.wpc1923.cn/articles/2019/10/29/1572306215878.html)
